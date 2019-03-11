@@ -14,7 +14,7 @@
     <body>
         
         <div class="container">
-            <h2>Hoverable Dark Table</h2>
+            <h2>Lista de todas las notas creados por usuario</h2>
             <p>The .table-hover class adds a hover effect (grey background color) on table rows:</p>            
             <table class="table table-bordered">
               <thead>
