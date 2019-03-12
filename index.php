@@ -30,7 +30,7 @@ $conn = null;
                    echo "<h2>Inicie sesión</h2>";
                 }
             ?>
-            <!--<h2>Vertical (basic) form</h2>-->
+            <h2>Vertical (basic) form</h2>
             <form action="control.php" method="post">
                 <div class="form-group">
                     <label for="email">Usuario:</label>
