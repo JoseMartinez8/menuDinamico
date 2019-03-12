@@ -15,7 +15,7 @@
         
         <div class="container">
             <h2>Lista de todas las notas creados por usuario</h2>
-            <p>The .table-hover class adds a hover effect (grey background color) on table rows:</p>            
+            <p>The .table-hover encontraras todas las notas creadas por usuario y su fecha:</p>            
             <table class="table table-bordered">
               <thead>
                   <tr class="warning">
